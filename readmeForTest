@@ -1,0 +1,7 @@
+
+To start tests you should make three sings:
+
+1) start selenium-server. Command: "java -jar seleniumServer/selenium-server-standalone-2.35.0.jar"
+2) in new tab of console client run file 'RunAll.php' by phpunit. Command: "phpunit RunAll.php"
+   (it`s run file, in which tester will add tests as they become available)
+3) enjoy
