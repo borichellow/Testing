@@ -1,3 +1,5 @@
+For running tests you need PHPUnit installed. How to do it:
+http://www.mediawiki.org/wiki/Manual:PHP_unit_testing/Installing_PHPUnit
 
 To start tests you should make three sings:
 
